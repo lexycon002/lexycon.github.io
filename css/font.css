@@ -1,0 +1,76 @@
+/* ----------Font-family Livvic */
+@font-face {
+    font-family: Livvic;
+    src: url('../font-styles/Livvic-ThinItalic.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-Thin.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-SemiBoldItalic.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-SemiBold.ttf');
+}
+@font-face {
+    font-family: livvic-2;
+    src: url('../font-styles/Livvic-Regular.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-MediumItalic.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-Medium.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-BoldItalic.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-BlackItalic.ttf');
+}
+@font-face {
+    font-family: livvic;
+    src: url('../font-styles/Livvic-ExtraLightItalic.ttf');
+}
+/* ----------Font-family Abel--------- */
+@font-face {
+    font-family: Abel;
+    src: url('../font-styles/Abel-Regular.ttf');
+}
+/* ----------Font-family LexendDeca--------- */
+@font-face {
+    font-family: LexendDeca;
+    src: url('../font-styles/LexendDeca-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: LexendDeca-R;
+    src: url('../static/LexendDeca-Medium.ttf');
+}
+/* ----------Font-family SourceCodePro--------- */
+@font-face {
+    font-family: SourceCodePro;
+    src: url('../static/SourceCodePro-Italic.ttf');
+}
+@font-face {
+    font-family: SourceCodePro;
+    src: url('../static/SourceCodePro-Regular.ttf');
+}
+/* ----------Font-family VarelaRound--------- */
+@font-face {
+    font-family: VarelaRound;
+    src: url('../font-styles/VarelaRound-Regular.ttf');
+}
+/* ----------Font-family Anton--------- */
+@font-face {
+    font-family: Anton;
+    src: url('../font-styles/Anton-Regular.ttf');
+}
+
+
